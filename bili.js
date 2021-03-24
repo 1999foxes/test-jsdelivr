@@ -53,4 +53,5 @@ if (document.location.href.indexOf("bilibili") != -1) {
 	// });
 
 }
+alert('hello');
 document.location.href = target;
